@@ -16,9 +16,9 @@ Step 5: print palindrome if it's equal else print not a palindrome.
 
 Step 6: stop the program
 ## Program:
-Name : ARUN KUMAR SUKDEV CHAVAN
+Name : AKAVIYA SHREE S
 
-Reg.No : 212222230013
+Reg.No : 212222110018
 ```
 using System;
 namespace palindrome
