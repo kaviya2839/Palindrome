@@ -16,7 +16,7 @@ Step 5: print palindrome if it's equal else print not a palindrome.
 
 Step 6: stop the program
 ## Program:
-Name : AKAVIYA SHREE S
+Name : KAVIYA SHREE S
 
 Reg.No : 212222110018
 ```
